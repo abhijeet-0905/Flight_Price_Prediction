@@ -3,7 +3,6 @@
 [![git batch]](https://github.com/abhijeet-0905)
 ## Contents 
 ****
-- [Overview](#overview)
 - [Problem Statement](#Problem-Statement)
 - [Dataset](#dataset)
 - [Exploratory data analysis](#Exploratory-data-analysis)
@@ -15,7 +14,6 @@
 - [Model hyper-tuning](#Model-hyper-tuning)
 - [Conclusion](#conclusion)
 ****
-## Overview
 
 ## Problem Statement
 Flight ticket prices can be something hard to guess, due to its ability of being reliant on various factors it keeps varying.
